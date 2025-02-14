@@ -10,4 +10,4 @@ pip install numpy gymnasium ale-py
 python pg-pong-2025.py
 ```
 
-After running it overnight (25500 episodes), the trained agent can beat the computer once in a while.
+After running it overnight (25500 episodes), the trained agent can beat the computer roughly 1 out of 10 episodes.
