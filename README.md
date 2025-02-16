@@ -1,6 +1,6 @@
-# Policy gradient Pong for 2025
+# Policy gradient Pong for year 2025
 
-Adapt Andrej Karpathy's [Policy Gradient Pong example](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5) to Year 2025. Changes include:
+Minor adaptation of Andrej Karpathy's [Policy Gradient Pong example](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5) to more modern dev environment. Changes include:
 1. make it work with Python3 (verified with Python 3.12)
 2. use gymnasium instead of gym as gym is not updated anymore
 
